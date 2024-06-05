@@ -1,0 +1,32 @@
+<resources>
+    <!-- OOS QS style -->  
+    <dimen name="custom_qs_panel_padding_top">136dp</dimen>
+    <dimen name="custom_notification_row_padding">16dp</dimen>
+    <dimen name="qs_tile_height">65dp</dimen>
+    <dimen name="qs_tile_margin_horizontal">8dp</dimen>
+    <dimen name="qs_tile_margin_vertical">@dimen/qs_tile_margin_horizontal</dimen>
+    <dimen name="qs_footer_height">48dp</dimen>
+    <dimen name="qs_customize_internal_side_paddings">8dp</dimen>
+    <dimen name="qs_label_container_margin">10dp</dimen>
+    <dimen name="qs_quick_tile_size">60dp</dimen>
+    <dimen name="qs_tile_padding">8dp</dimen>
+    <dimen name="qs_tile_text_size">15sp</dimen>
+    <dimen name="qs_corner_radius">@dimen/qs_op_header_layout_corner_radius</dimen>
+
+    <dimen name="qqs_layout_padding_bottom">24dp</dimen>
+    <dimen name="qqs_layout_padding_top">0dp</dimen>
+
+    <dimen name="large_screen_shade_header_height">135dp</dimen>
+
+    <!-- QQS Brightness slider -->
+    <dimen name="qqs_top_brightness_margin_top">4dp</dimen>
+    <dimen name="qqs_top_brightness_margin_bottom">12dp</dimen>
+    <dimen name="qqs_bottom_brightness_margin_top">12dp</dimen>
+    <dimen name="qqs_bottom_brightness_margin_bottom">4dp</dimen>
+
+    <!-- QS Brightness slider -->
+    <dimen name="qs_top_brightness_margin_top">8dp</dimen>
+    <dimen name="qs_top_brightness_margin_bottom">10dp</dimen>
+    <dimen name="qs_bottom_brightness_margin_top">10dp</dimen>
+    <dimen name="qs_bottom_brightness_margin_bottom">0dp</dimen>
+</resources>

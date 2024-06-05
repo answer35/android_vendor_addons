@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  In landscape we need adjust it for dual notification shade
+          in regular screen look more better  -->
+    <dimen name="large_screen_shade_header_height">25dp</dimen>
+</resources>

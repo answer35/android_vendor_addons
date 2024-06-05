@@ -263,6 +263,7 @@ PRODUCT_PACKAGES += \
 # QS UI Style
 PRODUCT_PACKAGES += \
     A11QSUI \
+    OOSQSUI \
     QSOutline \
     QSTwoToneAccent \
     QSTwoToneAccentTrans \
